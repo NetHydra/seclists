@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+set -e
+
+/usr/bin/hydrapwk-tree-cd /usr/share/seclists
+

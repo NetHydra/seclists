@@ -1,0 +1,11 @@
+seclists (2025.3+hydrapwk1) yellowdog; urgency=low
+
+  * Update 2025.3
+
+ -- Joe <joe@rstrike.my.id>  Fri, 26 Sep 2025 13:40:59 -0700
+
+seclists (2025.2-hydrapwk1) UNRELEASED; urgency=low
+
+  * Initial packaging.
+
+ -- Joe <joe@rstrike.my.id>  Thu, 07 Aug 2025 13:40:59 -0400

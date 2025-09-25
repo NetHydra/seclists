@@ -1,0 +1,10 @@
+Ai usr/share/seclists/
+Discovery usr/share/seclists/
+Fuzzing usr/share/seclists/
+Miscellaneous usr/share/seclists/
+Passwords usr/share/seclists/
+Pattern-Matching usr/share/seclists/
+Payloads usr/share/seclists/
+Usernames usr/share/seclists/
+Web-Shells usr/share/seclists/
+debian/helper-script/seclists usr/bin/
