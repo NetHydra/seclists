@@ -6,13 +6,13 @@ Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1
 Homepage: https://github.com/danielmiessler/SecLists
 Rules-Requires-Root: no
-Vcs-Git: https://gitlab.com/hydrapwk/packages/SecLists.git
-Vcs-Browser: https://gitlab.com/hydrapwk/packages/SecLists
+Vcs-Git: https://gitlab.com/nethydra/packages/SecLists.git
+Vcs-Browser: https://gitlab.com/nethydra/packages/SecLists
 
 Package: seclists
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}, hydrapwk-menus
+Depends: ${misc:Depends}
 Description: SecLists is the security tester's companion.
  It's a collection of multiple types of lists used during security assessments
  collected in one place. List types include usernames, passwords, URLs, sensitive data patterns,

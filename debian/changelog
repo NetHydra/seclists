@@ -1,3 +1,10 @@
+seclists (2025.3+nethydra0) sana; urgency=low
+
+  * Preparing release
+  * Disable hydrapwk-menus dependencies
+
+ -- Joe <joe@rstrike.my.id>  Wed, 12 Mar 2026 21:41:00 +0700
+
 seclists (2025.3+hydrapwk1) yellowdog; urgency=low
 
   * Update 2025.3
